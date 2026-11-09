@@ -44,3 +44,9 @@ This is a personal learning repository. It is a work in progress.
 ## Next Step
 
 Continue exploring repository management and collaboration workflows.
+
+## Branch Practice
+
+This section was added on my practice branch.
+
+I am learning how branches allow me to make changes independently before integrating them into the main branch.
